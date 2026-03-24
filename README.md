@@ -1,6 +1,6 @@
-# 🚀 Awesome Hidden Developer Toolkit
+# 🚀 Awesome Hidden Developer Toolkit (Curated List)
 
-A curated collection of powerful and underrated developer tools.
+> A curated list of underrated developer tools, hidden gems, and productivity boosters for developers.
 
 ---
 
