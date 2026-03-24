@@ -20,6 +20,9 @@ A curated collection of powerful and underrated developer tools.
 
 ---
 
+## Author : Charul Bhanarkar
+
+---
 📌 Click on any tool to explore full details
 
 ⭐ Star this repo if you find it useful!
