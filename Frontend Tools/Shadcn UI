@@ -1,71 +1,94 @@
 # 🎨 Shadcn UI – Modern UI Component System
 
-🌐 https://ui.shadcn.com/
+<p align="center">
+  <a href="https://ui.shadcn.com/">
+    <img src="https://img.shields.io/badge/Visit-Website-black?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ## 📌 What is Shadcn UI?
 
-“Not a library — a copy-paste UI system”
+> “Not a library — a copy-paste UI system”
+
 Shadcn UI provides beautifully designed components that you can directly use in your projects.
 
 ---
 
 ## 🧩 SNAPSHOT
 
-| Category   | UI Component System        |
-| ---------- | -------------------------- |
-| Best For   | React apps, dashboards     |
-| Difficulty | Beginner to Intermediate   |
-| Link       | https://ui.shadcn.com/     |
+| 🚀 Category | UI Component System |
+|------------|-------------------|
+| 🎯 Best For | React apps, dashboards |
+| ⚡ Difficulty | Beginner to Intermediate |
+| 🔗 Link | https://ui.shadcn.com/ |
 
 ---
 
-## ⚙️ WHAT MAKES IT DIFFERENT?
+<details>
+<summary>⚙️ WHAT MAKES IT DIFFERENT?</summary>
 
-Instead of installing a heavy library, Shadcn UI:
+<br>
 
-→ Lets you copy components directly  
-→ Gives full control over code  
-→ Uses Tailwind CSS for styling  
-→ Keeps your project lightweight  
+→ No heavy dependency  
+→ Full control over code  
+→ Built using Tailwind CSS  
+→ Lightweight & scalable  
+
+</details>
 
 ---
 
-## 🧪 WHEN TO USE
+<details>
+<summary>🧪 WHEN TO USE</summary>
+
+<br>
 
 Use when:
 
-* ❌ You don’t want bulky UI libraries
-* ❌ You need full customization
-* ❌ You want fast UI development
+* ❌ You don’t want bulky UI libraries  
+* ❌ You need full customization  
+* ❌ You want fast UI development  
 
-👉 Perfect for modern SaaS apps
+👉 Perfect for modern SaaS apps  
+
+</details>
 
 ---
 
-## 🧠 REAL IMPACT
+<details>
+<summary>🧠 REAL IMPACT</summary>
+
+<br>
 
 💬 Example:
 
 You need a dialog box:
 
 → Copy component  
-→ Paste into your project  
+→ Paste into project  
 → Customize instantly  
 
-⏱ Saves hours of work
+⏱ Saves hours of development time  
+
+</details>
 
 ---
 
-## ⚡ PRO MOVE
+<details>
+<summary>⚡ PRO MOVE</summary>
+
+<br>
 
 Combine with:
 
 → Tailwind CSS  
 → Framer Motion  
 
-To create premium UI
+🔥 For premium UI  
+
+</details>
 
 ---
 
@@ -75,4 +98,4 @@ To create premium UI
 ⭐ Highly customizable  
 ⭐ Industry trending  
 
-→ A must-have frontend tool
+> 💡 A must-have frontend tool
