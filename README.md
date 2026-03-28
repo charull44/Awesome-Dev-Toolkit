@@ -1,28 +1,93 @@
 # 🚀 Awesome Hidden Developer Toolkit (Curated List)
 
-> A curated list of underrated developer tools, hidden gems, and productivity boosters for developers.
+<p align="center">
+  <img src="https://img.shields.io/github/stars/charull44/Awesome-Dev-Toolkit?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/charull44/Awesome-Dev-Toolkit?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/charull44/Awesome-Dev-Toolkit?style=for-the-badge" />
+</p>
+
+> 💀 **Insanely Useful Developer Tools You Didn’t Know You Needed**
+> Curated collection of powerful, underrated tools for developers.
 
 ---
 
-## 🧠 AI Tools
+## 🔥 Why This Exists
 
-* [Phind](tools/phind.md)
-* [Cursor IDE](tools/cursor.md)
+Most dev tool lists are:
+❌ Repetitive
+❌ Filled with basic tools
+❌ Not actually useful
 
-## 🔍 Dev Tools
+This repo is different:
 
-* [JSON Crack](tools/jsoncrack.md)
-* [Hoppscotch](tools/hoppscotch.md)
+✔ Curated, not dumped
+✔ Includes hidden gems
+✔ Focused on real developer productivity
 
-## 🔐 Utilities
+---
 
-* [CyberChef](tools/cyberchef.md)
+## 🧠 Categories
+
+* 🧠 AI Tools
+* ⚡ Productivity
+* 🎨 UI / Frontend
+* 🛠 Backend & API
+* 🧪 Debugging / Testing
+* 🔐 Security / Data
+* 🚀 DevOps
+* 💡 Unique / Hidden Gems
+
+---
+
+## 🚀 What Makes This Repo Special?
+
+✨ Interactive tool pages
+📚 Structured & categorized
+💀 Focus on underrated tools
+⚡ Beginner → Advanced coverage
+
+---
+
+## 🤝 Contributing
+
+Got a cool dev tool?
+
+1. Fork the repo
+2. Add your tool in correct category
+3. Follow the existing format
+4. Create a Pull Request 🚀
+
+---
+
+## ⭐ Support
+
+If you found this useful:
+
+👉 Star the repo
+👉 Share with dev friends
+👉 Follow for more updates
+
+---
+
+## 📢 Build in Public
+
+Follow my journey of building useful dev resources 🚀
+
+---
+
+## 💀 Final Note
+
+> Tools don’t make you a better developer —
+> but the right tools save you **hundreds of hours**.
+
+---
+
+⭐ Don’t forget to star — it helps the repo grow!
 
 ---
 
 ## Author : Charul Bhanarkar
 
 ---
-📌 Click on any tool to explore full details
 
 ⭐ Star this repo if you find it useful!
