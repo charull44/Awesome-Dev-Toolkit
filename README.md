@@ -1,11 +1,5 @@
 # 🚀 Awesome Hidden Developer Toolkit (Curated List)
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/charull44/Awesome-Dev-Toolkit?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/charull44/Awesome-Dev-Toolkit?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/charull44/Awesome-Dev-Toolkit?style=for-the-badge" />
-</p>
-
 > 💀 **Insanely Useful Developer Tools You Didn’t Know You Needed**
 > Curated collection of powerful, underrated tools for developers.
 
@@ -88,6 +82,3 @@ Follow my journey of building useful dev resources 🚀
 
 ## Author : Charul Bhanarkar
 
----
-
-⭐ Star this repo if you find it useful!
