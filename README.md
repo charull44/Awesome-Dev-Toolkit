@@ -36,6 +36,16 @@ This repo is different:
 
 ---
 
+# 🔥 Featured Tools
+
+- Cursor
+- Supabase
+- shadcn/ui
+- Mintlify
+- Playwright
+
+---
+
 ## 🚀 What Makes This Repo Special?
 
 ✨ Interactive tool pages
