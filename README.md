@@ -1,5 +1,8 @@
 # 🚀 Awesome Hidden Developer Toolkit (Curated List)
-
+![Awesome](https://awesome.re/badge.svg)
+![Made With Love](https://img.shields.io/badge/Made%20With-❤️-red)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
+![Open Source](https://img.shields.io/badge/Open%20Source-💚-blue)
 > 💀 **Insanely Useful Developer Tools You Didn’t Know You Needed**
 > Curated collection of powerful, underrated tools for developers.
 
