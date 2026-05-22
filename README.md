@@ -57,6 +57,8 @@ This repo is different:
 
 ## 🤝 Contributing
 
+If you know useful developer tools, feel free to open a pull request or suggest additions.
+
 Got a cool dev tool?
 
 1. Fork the repo
