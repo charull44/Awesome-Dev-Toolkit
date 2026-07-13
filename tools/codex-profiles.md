@@ -24,10 +24,10 @@
 
 codex-profiles is a dependency-free Bash wrapper that:
 
-→ Gives each name its own `CODEX_HOME`  
-→ Opens separate ChatGPT Desktop windows on macOS  
-→ Keeps local state separate without copying tokens  
-→ Supports macOS and Linux for CLI profiles  
+→ Gives each name its own `CODEX_HOME`<br>
+→ Opens separate ChatGPT Desktop windows on macOS<br>
+→ Keeps local state separate without copying tokens<br>
+→ Supports macOS and Linux for CLI profiles
 
 </details>
 
@@ -53,10 +53,10 @@ Use when:
 
 <br>
 
-✔ Dependency-free Bash implementation  
-✔ Read-only status and diagnostics commands  
-✔ npm, Homebrew, Nix, and standalone installation options  
-✔ MIT-licensed source  
+✔ Dependency-free Bash implementation<br>
+✔ Read-only status and diagnostics commands<br>
+✔ npm, Homebrew, Nix, and standalone installation options<br>
+✔ MIT-licensed source
 
 </details>
 
