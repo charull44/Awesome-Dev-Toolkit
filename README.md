@@ -43,6 +43,7 @@ This repo is different:
 - shadcn/ui
 - Mintlify
 - Playwright
+- [NextReset](https://nextreset.ai/) — Source-linked public Codex reset history and official AI service incident reference.
 
 ---
 
