@@ -27,6 +27,7 @@ This repo is different:
 
 * 🧠 AI Tools
 * ⚡ Productivity
+  * [Glim](Productivity/glim.md) — Free, open-source macOS viewer for documents, data, images and source code.
 * 🎨 UI / Frontend
 * 🛠 Backend & API
 * 🧪 Debugging / Testing
